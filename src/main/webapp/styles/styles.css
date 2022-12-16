@@ -1,0 +1,42 @@
+body {
+    background-color: #F5F5F5;
+    font-family: -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto, Ubuntu;
+}
+h1 {
+    margin: 20px;
+    padding: 20px 0;
+    color: #f3f3f3;
+    text-shadow: 3px 3px 1px black;
+}
+
+p, li {
+    font-size: 30px;
+    line-height: 10;
+    letter-spacing: 1px;
+}
+button {
+    border-radius: 5px;
+    outline: none;
+    margin-top: 60px;
+    box-shadow: 0 .125rem .25rem rgba(0, 0, 0, .075);
+    background: linear-gradient(#FFF, #FAFAFA);
+    padding: 10px;
+    text-align: center;
+    height:60px;
+    width:100px;
+}
+
+html {
+    background-color: #543a28;
+}
+
+body {
+    width: 1000px;
+    margin: 0 auto;
+    text-align: center;
+    background-color: #cdaa86;
+    padding: 0 90px 90px 90px;
+    border: 5px solid black;
+}
+
+
